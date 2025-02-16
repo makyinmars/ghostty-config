@@ -3,7 +3,10 @@ font-family = BerkeleyMono Nerd Font
 font-size = 16
 
 # Theme
-theme = tokyonight
+# theme = tokyonight
+
+theme = catppuccin-mocha
+background = #000000
 
 # Mouse
 mouse-hide-while-typing = true
