@@ -1,9 +1,9 @@
 # Fonts
 font-family = Berkeley Mono Variable
-font-size = 15
+font-size = 16
 
 # Theme
-theme = GruvboxDarkHard
+theme = GruvboxLight
 
 # Mouse
 mouse-hide-while-typing = true
