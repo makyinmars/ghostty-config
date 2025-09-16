@@ -14,12 +14,14 @@ This is a configuration repository for the Ghostty terminal emulator. It contain
 ## Configuration Format
 
 The config file uses plain text format:
+
 ```
 # Comments start with #
 setting-name = value
 ```
 
 Settings are organized into categories:
+
 - Fonts
 - Theme
 - Mouse
@@ -30,12 +32,15 @@ Settings are organized into categories:
 ## Common Tasks
 
 ### Modifying Settings
+
 When updating configuration:
+
 1. Edit the `config` file directly
 2. Settings take effect when Ghostty is restarted
 3. Use exact setting names as documented in Ghostty's documentation
 
 ### Keybinding Conventions
+
 - The config clears default keybindings first with `keybind = clear`
 - Split navigation uses `shift+ctrl` prefix
 - Most other operations use `super+shift` prefix

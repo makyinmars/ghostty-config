@@ -3,7 +3,7 @@ font-family = Berkeley Mono Variable
 font-size = 16
 
 # Theme
-theme = GruvboxDarkHard
+theme = Gruvbox Dark Hard
 
 # Mouse
 mouse-hide-while-typing = true
@@ -45,3 +45,7 @@ keybind = super+shift+w=close_surface
 # Other
 copy-on-select = clipboard
 quit-after-last-window-closed = true
+
+# Custom Shaders
+custom-shader = cursor_blaze.glsl
+custom-shader-animation = true
