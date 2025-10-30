@@ -78,7 +78,7 @@ custom-shader = cursor_blaze.glsl
 custom-shader-animation = true
 
 # Background
-background-opacity = 0.9
+background-opacity = 1
 
 # Other
 copy-on-select = clipboard
