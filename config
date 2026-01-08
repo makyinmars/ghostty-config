@@ -3,7 +3,7 @@ auto-update-channel = tip
 
 # Fonts
 font-family = Berkeley Mono Variable
-font-size = 16
+font-size = 17
 
 # Theme
 theme = Gruvbox Dark Hard
