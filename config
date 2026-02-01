@@ -13,7 +13,7 @@ mouse-hide-while-typing = true
 
 # Window
 window-padding-balance = true
-macos-titlebar-style = tabs
+macos-titlebar-style = hidden
 window-save-state = always
 window-colorspace = "display-p3"
 window-inherit-working-directory = true
