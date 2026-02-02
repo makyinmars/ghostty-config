@@ -29,6 +29,10 @@ keybind = ctrl+t>r=reload_config
 # Other useful shortcuts
 keybind = ctrl+t>f=toggle_fullscreen
 
+# Copy/Paste
+keybind = super+c=copy_to_clipboard
+keybind = super+v=paste_from_clipboard
+
 # Custom shader
 custom-shader = cursor_blaze.glsl
 custom-shader-animation = true
