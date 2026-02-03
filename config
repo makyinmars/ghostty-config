@@ -24,10 +24,10 @@ window-new-tab-position = end
 keybind = clear
 
 # Reload config
-keybind = ctrl+t>r=reload_config
+keybind = ctrl+y>r=reload_config
 
 # Other useful shortcuts
-keybind = ctrl+t>f=toggle_fullscreen
+keybind = ctrl+y>f=toggle_fullscreen
 
 # Copy/Paste
 keybind = super+c=copy_to_clipboard
