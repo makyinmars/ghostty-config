@@ -43,3 +43,7 @@ background-opacity = 1
 # Other
 copy-on-select = clipboard
 quit-after-last-window-closed = true
+
+# Oh My Pi
+keybind = alt+backspace=text:\x1b\x7f
+keybind = shift+enter=text:\n
